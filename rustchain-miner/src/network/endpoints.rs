@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! API endpoint implementations for the RustChain node.
 
 use super::RustChainClient;

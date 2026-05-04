@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 pub mod clock_drift;
 pub mod cache_timing;
 pub mod simd_identity;

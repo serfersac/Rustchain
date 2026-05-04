@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Check 6: Anti-Emulation / VM Detection
 //!
 //! Multi-layered detection of virtual machines, hypervisors, and emulators.

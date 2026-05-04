@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 use clap::Parser;
 
 /// Native Rust miner for RustChain — full RIP-PoA hardware fingerprinting.

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Check 3: SIMD Unit Identity
 //!
 //! Benchmarks scalar vs SIMD (vector) integer addition throughput. The ratio

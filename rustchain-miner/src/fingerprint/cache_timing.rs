@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Check 2: Cache Timing Fingerprint
 //!
 //! Sweeps memory buffers of increasing size (spanning L1 → L2 → L3 cache boundaries)

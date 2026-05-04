@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 /// Default node URL (self-signed TLS).
 #[allow(dead_code)]
 pub const DEFAULT_NODE_URL: &str = "https://50.28.86.131";

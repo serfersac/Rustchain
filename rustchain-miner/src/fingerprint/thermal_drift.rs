@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Check 4: Thermal Drift Entropy
 //!
 //! Runs a CPU-intensive workload for several seconds, sampling timing deltas

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Check 1: Clock-Skew & Oscillator Drift
 //!
 //! Measures the coefficient of variation (CV) of back-to-back high-resolution

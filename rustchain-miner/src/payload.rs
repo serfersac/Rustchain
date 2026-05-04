@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! Attestation payload construction.
 //!
 //! Builds the JSON payload matching the RustChain attestation schema.

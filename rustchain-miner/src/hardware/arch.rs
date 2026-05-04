@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 /// Classify CPU brand string into (device_family, device_arch).
 ///
 /// Returns (&str, &str) — the family (e.g. "PowerPC", "x86_64", "ARM")

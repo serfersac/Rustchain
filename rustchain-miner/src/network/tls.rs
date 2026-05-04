@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0
 //! TLS configuration for connecting to RustChain nodes with self-signed certificates.
 
 use reqwest::blocking::Client;
